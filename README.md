@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, i am Vu Dinh Nam Khanh you can call me Khanh Vu. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
+Hi, i am Khanh Vu you can call me Peachii. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
 
 
 
